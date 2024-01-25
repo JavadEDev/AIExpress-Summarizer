@@ -11,22 +11,9 @@ AIExpress Summarizer is a web application built with React.js, Tailwind CSS, and
 
 ## Live Demo
 
-Check out the live demo: [AIExpress Summarizer Live Demo](<insert-live-demo-link>)
+Check out the live demo: [AIExpress Summarizer Live Demo](https://65b2bd3df3f6e927ae1b9823--dapper-tulumba-cd0b99.netlify.app/)
 
 ## Screenshots
 
-![Screenshot](<insert-screenshot-link-1>)
+![Screenshot](https://github.com/Javad-EB/AIExpress-Summarizer/blob/main/public/AIExpress.jpg)
 
-
-## Getting Started
-
-### Prerequisites
-
-- Node.js: [Download and Install Node.js](https://nodejs.org/)
-
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/AIExpress-Summarizer.git
