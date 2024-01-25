@@ -1,7 +1,6 @@
-import { useState, useEffect, useSyncExternalStore } from 'react'
+import { useState, useEffect } from 'react'
 import { copy, linkIcon, loader, tick } from '../assets'
 import { useLazyGetSummaryQuery } from '../services/article'
-import { stringify } from 'postcss'
 
 const Demo = () => {
     const [article, setArticle] = useState({

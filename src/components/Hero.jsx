@@ -12,7 +12,7 @@ const Hero = () => {
                 </button>
             </nav>
             <h1 className='head_text'>
-                Summurize Article with <br className='max-md:hidden'/>
+                Summarize Article with <br className='max-md:hidden'/>
                 <span className='orange_gradient'>OpenAI GPT-4</span>
             </h1>
             <h2 className='desc'>
